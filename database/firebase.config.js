@@ -9,5 +9,5 @@ if (admin.apps.length === 0) admin.initializeApp({
 
 
 module.exports = {
-    
+    admin
 }
